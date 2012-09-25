@@ -14,6 +14,6 @@
 
 @property (strong, nonatomic) IBOutlet UILabel *detailDescriptionLabel;
 
-// test this is also a conflict	
+// test this is a conflict
 
 @end
